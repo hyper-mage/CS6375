@@ -1,0 +1,208 @@
+C:\Users\mlynn\AppData\Local\Programs\Python\Python37\python.exe C:/Users/mlynn/Documents/matt/6375/RNNproject/scratch.py
+Using TensorFlow backend.
+5865 2890
+2019-10-25 14:41:34.567577: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+Epoch 1/100
+ - 9s - loss: 0.0011
+Epoch 2/100
+ - 9s - loss: 1.5342e-05
+Epoch 3/100
+ - 9s - loss: 1.3762e-05
+Epoch 4/100
+ - 10s - loss: 1.3218e-05
+Epoch 5/100
+ - 11s - loss: 1.3653e-05
+Epoch 6/100
+ - 15s - loss: 1.3164e-05
+Epoch 7/100
+ - 16s - loss: 1.3423e-05
+Epoch 8/100
+ - 14s - loss: 1.3666e-05
+Epoch 9/100
+ - 9s - loss: 1.3216e-05
+Epoch 10/100
+ - 12s - loss: 1.3800e-05
+Epoch 11/100
+ - 16s - loss: 1.3525e-05
+Epoch 12/100
+ - 15s - loss: 1.3061e-05
+Epoch 13/100
+ - 15s - loss: 1.3464e-05
+Epoch 14/100
+ - 15s - loss: 1.3210e-05
+Epoch 15/100
+ - 15s - loss: 1.3004e-05
+Epoch 16/100
+ - 15s - loss: 1.3284e-05
+Epoch 17/100
+ - 15s - loss: 1.3587e-05
+Epoch 18/100
+ - 15s - loss: 1.3197e-05
+Epoch 19/100
+ - 15s - loss: 1.2875e-05
+Epoch 20/100
+ - 15s - loss: 1.3396e-05
+Epoch 21/100
+ - 14s - loss: 1.3639e-05
+Epoch 22/100
+ - 13s - loss: 1.3184e-05
+Epoch 23/100
+ - 15s - loss: 1.3106e-05
+Epoch 24/100
+ - 14s - loss: 1.3305e-05
+Epoch 25/100
+ - 15s - loss: 1.3375e-05
+Epoch 26/100
+ - 10s - loss: 1.3131e-05
+Epoch 27/100
+ - 8s - loss: 1.3422e-05
+Epoch 28/100
+ - 12s - loss: 1.3206e-05
+Epoch 29/100
+ - 10s - loss: 1.3429e-05
+Epoch 30/100
+ - 14s - loss: 1.3254e-05
+Epoch 31/100
+ - 10s - loss: 1.3418e-05
+Epoch 32/100
+ - 10s - loss: 1.3355e-05
+Epoch 33/100
+ - 15s - loss: 1.3357e-05
+Epoch 34/100
+ - 15s - loss: 1.3239e-05
+Epoch 35/100
+ - 16s - loss: 1.3587e-05
+Epoch 36/100
+ - 16s - loss: 1.3161e-05
+Epoch 37/100
+ - 13s - loss: 1.3036e-05
+Epoch 38/100
+ - 9s - loss: 1.3469e-05
+Epoch 39/100
+ - 10s - loss: 1.3021e-05
+Epoch 40/100
+ - 13s - loss: 1.3080e-05
+Epoch 41/100
+ - 9s - loss: 1.3062e-05
+Epoch 42/100
+ - 8s - loss: 1.3210e-05
+Epoch 43/100
+ - 8s - loss: 1.3597e-05
+Epoch 44/100
+ - 9s - loss: 1.3026e-05
+Epoch 45/100
+ - 9s - loss: 1.3313e-05
+Epoch 46/100
+ - 9s - loss: 1.3584e-05
+Epoch 47/100
+ - 9s - loss: 1.3302e-05
+Epoch 48/100
+ - 9s - loss: 1.3548e-05
+Epoch 49/100
+ - 9s - loss: 1.3088e-05
+Epoch 50/100
+ - 9s - loss: 1.3479e-05
+Epoch 51/100
+ - 9s - loss: 1.3537e-05
+Epoch 52/100
+ - 10s - loss: 1.3789e-05
+Epoch 53/100
+ - 8s - loss: 1.3560e-05
+Epoch 54/100
+ - 8s - loss: 1.3495e-05
+Epoch 55/100
+ - 8s - loss: 1.3648e-05
+Epoch 56/100
+ - 8s - loss: 1.3666e-05
+Epoch 57/100
+ - 9s - loss: 1.3432e-05
+Epoch 58/100
+ - 8s - loss: 1.3030e-05
+Epoch 59/100
+ - 8s - loss: 1.3366e-05
+Epoch 60/100
+ - 8s - loss: 1.3244e-05
+Epoch 61/100
+ - 9s - loss: 1.3352e-05
+Epoch 62/100
+ - 8s - loss: 1.3657e-05
+Epoch 63/100
+ - 8s - loss: 1.2914e-05
+Epoch 64/100
+ - 8s - loss: 1.3484e-05
+Epoch 65/100
+ - 9s - loss: 1.3376e-05
+Epoch 66/100
+ - 8s - loss: 1.3938e-05
+Epoch 67/100
+ - 8s - loss: 1.3237e-05
+Epoch 68/100
+ - 8s - loss: 1.3964e-05
+Epoch 69/100
+ - 9s - loss: 1.3355e-05
+Epoch 70/100
+ - 8s - loss: 1.3728e-05
+Epoch 71/100
+ - 8s - loss: 1.3219e-05
+Epoch 72/100
+ - 9s - loss: 1.3636e-05
+Epoch 73/100
+ - 9s - loss: 1.3279e-05
+Epoch 74/100
+ - 9s - loss: 1.3692e-05
+Epoch 75/100
+ - 8s - loss: 1.3434e-05
+Epoch 76/100
+ - 9s - loss: 1.3642e-05
+Epoch 77/100
+ - 8s - loss: 1.3419e-05
+Epoch 78/100
+ - 8s - loss: 1.3608e-05
+Epoch 79/100
+ - 9s - loss: 1.3445e-05
+Epoch 80/100
+ - 9s - loss: 1.3440e-05
+Epoch 81/100
+ - 9s - loss: 1.3269e-05
+Epoch 82/100
+ - 9s - loss: 1.3309e-05
+Epoch 83/100
+ - 9s - loss: 1.3398e-05
+Epoch 84/100
+ - 9s - loss: 1.3439e-05
+Epoch 85/100
+ - 9s - loss: 1.3350e-05
+Epoch 86/100
+ - 9s - loss: 1.3408e-05
+Epoch 87/100
+ - 9s - loss: 1.3497e-05
+Epoch 88/100
+ - 8s - loss: 1.3894e-05
+Epoch 89/100
+ - 8s - loss: 1.3384e-05
+Epoch 90/100
+ - 9s - loss: 1.3363e-05
+Epoch 91/100
+ - 9s - loss: 1.3606e-05
+Epoch 92/100
+ - 9s - loss: 1.3364e-05
+Epoch 93/100
+ - 9s - loss: 1.3604e-05
+Epoch 94/100
+ - 9s - loss: 1.3795e-05
+Epoch 95/100
+ - 9s - loss: 1.3827e-05
+Epoch 96/100
+ - 9s - loss: 1.3106e-05
+Epoch 97/100
+ - 9s - loss: 1.3626e-05
+Epoch 98/100
+ - 8s - loss: 1.3497e-05
+Epoch 99/100
+ - 9s - loss: 1.3409e-05
+Epoch 100/100
+ - 8s - loss: 1.3561e-05
+Train Score: 118.29 RMSE
+Test Score: 1231.41 RMSE
+
+Process finished with exit code 0
