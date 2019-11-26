@@ -31,9 +31,11 @@ train_data_scaled = scaler.fit_transform(train_data)
 
 #%% Slap some timesteps in they
 
+t = 20
+
 # List compre-way
-this = np.array([train_data_scaled[i-60:i, 0] for i in range(60, len(data))])
-that = np.array([train_data_scaled[i, 0] for i in range(60, len(data))])
+this = np.array([train_data_scaled[i-t:i, 0] for i in range(t, len(data))])
+that = np.array([train_data_scaled[i, 0] for i in range(t, len(data))])
 # Reshape dat b
 this = np.reshape(this, (this.shape[0], this.shape[1], 1))
 # print("X_train == this", (X_train == this).all())
@@ -66,5 +68,5 @@ rnn.add(Dense(units = 1))
 rnn.compile(optimizer = 'adam', loss = 'mean_squared_error')
 
 # Fitting the RNN to the Training set
-rnn.fit(this, that, epochs = 5, batch_size = 64)
+rnn.fit(this, that, epochs = 5, batch_size = 128)
 
