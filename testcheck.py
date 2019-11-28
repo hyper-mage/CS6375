@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 data = pd.read_csv('DJI.csv', index_col="Date", parse_dates=True)
 print(data.head())
-print("data information:\n", data.info())
+print("Some info about the data:\n", data.info())
 data['Open'].plot(figsize=(16, 6))
 # plt.show()
 
